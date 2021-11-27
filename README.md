@@ -32,7 +32,7 @@ wget https://cdn.jsdelivr.net/gh/Njryadmin/XrayR-V2Board/config.yml -O /etc/Xray
 
 3. 修改下面链接的用户名 `Njryadmin` 为你自己的GitHub用户名，完成配置一键安装脚本命令。
 ```
-bash <(curl -Ls https://cdn.jsdelivr.net/gh/Njryadmino/XrayR-V2Board/install.sh)
+bash <(curl -Ls https://cdn.jsdelivr.net/gh/Njryadmin/XrayR-V2Board/install.sh)
 ```
 
 4. 在 `V2Board` 面板上完成基本节点信息的填写。
